@@ -1,4 +1,4 @@
-![image](https://github.com/ML-Production-Systems/ml-production-systems.github.io/blob/main/book-cover.png)
+![image](https://github.com/ML-Production-Systems/ml-production-systems.github.io/raw/main/book-cover.png)
 
 # Order your book today!
 
