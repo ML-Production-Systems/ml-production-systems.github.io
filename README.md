@@ -1,4 +1,4 @@
-![image](https://github.com/ML-Production-Systems/ml-production-systems.github.io/book-cover.png)
+![image](https://github.com/ML-Production-Systems/ml-production-systems.github.io/blob/main/book-cover.png)
 
 # Order your book today!
 
@@ -27,6 +27,10 @@ Coming ...
 # Overview of the Chapters
 
 Coming ...
+
+# Book Examples
+
+You can find the book examples here: [https://github.com/ML-Production-Systems/book-examples](https://github.com/ML-Production-Systems/book-examples).
 
 # Questions? Comments?
 
